@@ -44,7 +44,7 @@ README.md # Documentação do projeto
 
 > Você pode adicionar aqui um GIF mostrando a automação rodando ou prints da tela.
 
-![Automação](docs/automacao.gif)
+![Automação](./pyautogui/docs/automacao.gif)
 
 ---
 
