@@ -7,7 +7,7 @@ login = "marcosdeveloper@tester.com"
 password = "9090190"
 
 # Carregar tabela de produtos
-tabela = pd.read_csv("automação/produtos.csv")
+tabela = pd.read_csv("pyautogui/produtos.csv")
 
 # Abrir Edge e acessar o site
 pyautogui.press("win")
