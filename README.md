@@ -31,9 +31,9 @@ Ele automatiza o cadastro de produtos em um sistema web utilizando Python, **pan
 
 ## 📁 Estrutura do projeto
 
-automação/
+pyautogui/
 │ main.py # Script principal de automação
-src/data/
+pyautogui/
 │ produtos.csv # CSV com dados dos produtos
 README.md # Documentação do projeto
 
